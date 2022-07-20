@@ -5,5 +5,14 @@
   "repository": "https://github.com/BaseAdresseNationale/shared-data",
   "author": "adresse@data.gouv.fr",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "files": [
+    "*.json"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^4.3.1"
+  }
 }
