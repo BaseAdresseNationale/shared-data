@@ -42,5 +42,9 @@
   {
     "code": "cat",
     "label": "catalan"
+  },
+  {
+    "code": "pcd",
+    "label": "picard"
   }
 ]
