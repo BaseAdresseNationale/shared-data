@@ -1,6 +1,6 @@
 {
   "name": "@ban-team/shared-data",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Données partagées par plusieurs modules en lien avec la Base Adresse Nationale",
   "repository": "https://github.com/BaseAdresseNationale/shared-data",
   "author": "adresse@data.gouv.fr",
