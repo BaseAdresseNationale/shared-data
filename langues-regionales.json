@@ -62,5 +62,41 @@
   {
     "code": "fr-gallo",
     "label": "gallo"
+  },
+  {
+    "code": "aji",
+    "label": "ajië"
+  },
+  {
+    "code": "dhv",
+    "label": "drehu"
+  },
+  {
+    "code": "nen",
+    "label": "nengone"
+  },
+  {
+    "code": "pri",
+    "label": "paicî"
+  },
+  {
+    "code": "ty",
+    "label": "tahitien"
+  },
+  {
+    "code": "mrq",
+    "label": "marquisien"
+  },
+  {
+    "code": "pmt",
+    "label": "Paumotu"
+  },
+  {
+    "code": "mrv",
+    "label": "mangarévien"
+  },
+  {
+    "code": "frp",
+    "label": "francoprovençal"
   }
 ]
